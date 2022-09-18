@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @andrejdujako
+- 👋 Hi, I’m Andrej Dujakoski
 - 👀 I’m interested in Python progaramming
-- 🌱 I’m currently learning Django and Odoo
-- 💞️ I’m looking to collaborate on ...
+- 👨‍💻 I'm working as a Full Stack Python Developer
+- 🌱 I’m currently learning Odoo, Django and Selenium
 - 📫 How to reach me @ dujakoski97@hotmail.com
 
 <!---
