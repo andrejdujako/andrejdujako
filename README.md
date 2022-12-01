@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Andrej Dujakoski
 - 👀 I’m interested in Python progaramming
-- 👨‍💻 I'm working as a Full Stack Python Developer
-- 🌱 I’m currently learning Odoo, Django and Selenium
+- 👨‍💻 I'm working as a QA Engineer
+- 🌱 I’m currently learning Odoo, Django, Selenium, Cypress
 - 📫 How to reach me @ dujakoski97@hotmail.com
 
 <!---
